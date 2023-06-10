@@ -1,1 +1,1 @@
-# Curso-Vue.js
+# Curso-JavaScript
